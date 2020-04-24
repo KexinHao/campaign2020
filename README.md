@@ -167,16 +167,6 @@
 
     [Resilience%20of%20Political%20Moment%20by%20photography/Melancholy_Objects_On_Photography.pdf](Resilience%20of%20Political%20Moment%20by%20photography/Melancholy_Objects_On_Photography.pdf)
 
-- how I came to it? (my past practices)
-
-    [https://youtu.be/eRpO173GBVI](https://youtu.be/eRpO173GBVI)
-
-    The artist combines a provocative politician’s language to the act of giving a cooking show. She borrows and brings the expression from Mao and Stalin while she cooks potatoes, to examine the possibility to extract and isolate rhetorics from action.
-
-    ![Resilience%20of%20Political%20Moment%20by%20photography/IMG_1586.jpg](Resilience%20of%20Political%20Moment%20by%20photography/IMG_1586.jpg)
-
-    I also did the performance again as a live cooking buffet in a bar. I like to infuse different context into politik toespraak.
-
 ---
 
 Resilience of Political Moment by photography
