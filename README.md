@@ -24,6 +24,11 @@ A series of photographs of politicians giving speeches in various occasions and 
 | **Medium** | Photo
 | **Date** | 1947, 1 mei.
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience.
+**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | 1947, 1 mei.
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience.
 
 # Research (H1)
 
