@@ -100,9 +100,11 @@ A series of photographs of politicians giving speeches in various occasions and 
 My approaches to the artefacts consist of two parts: 1. A photographical analysis *to* the artefacts. This happended in the first half phase of the project which is more of studying the artefacts themselves. 2. A visual creation and reflection *on top of* the artefacts. This second half of the project is where new visual material was being created aside to *re-enter* the artefacts better.
 
 ## A photographical analysis *to* the artefacts
-⋅⋅* Analysis of political rhetorics and personal character through journalist photography. (method: content - what is in the photograph?)
-⋅⋅* Analysis of the “speaker-audience-place” relationships and their exchange through journalist photography. (method: form - how are the photograph?)
-⋅⋅* to question and examine the value of photography in political events, in terms of preservation of information. (method: form of form - what is it about photograph?)
+### Analysis of political rhetorics and personal character through journalist photography. (method: content - what is in the photograph?)
+### Analysis of the “speaker-audience-place” relationships and their exchange through journalist photography. (method: form - how are the photograph?)
+### to question and examine the value of photography in political events, in terms of preservation of information. (method: form of form - what is it about photograph?)
+#### a. What has the the photographical strategy done/added to the information?
+#### b. What has the materiality, the physical quality of photography and the age-ing of the material done/added/reduced to the information?
 
 ### Research Sub-sub-heading (H3)
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
