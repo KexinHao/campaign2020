@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Approaches](#Approaches-h1)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -17,7 +17,7 @@
 A series of photographs of politicians giving speeches in various occasions and times. Search word in archive: toespraak.
 
 ## Metadata
-| Tag | Data & Study |  
+| Tag | Data & Research |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
 | **Date & Location** | 1947 1 mei, Amsterdam
@@ -95,12 +95,14 @@ A series of photographs of politicians giving speeches in various occasions and 
 [^18]:https://en.wikipedia.org/wiki/Gerard_Veringa
 [^19]:https://www.parlement.com/id/vg09llh6rwx3/g_h_gerard_veringa
 [^20]:https://commons.wikimedia.org/wiki/File:Drie_vakcentrales_houden_vergadering_in_Den_Bosch_over_werkloosheid_v.l.n.r._A.,_Bestanddeelnr_925-4499.jpg
-# Research (H1)
+# Approaches
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+My approaches to the artefacts consist of two parts: 1. A photographical analysis *to* the artefacts. This happended in the first half phase of the project which is more of studying the artefacts themselves. 2. A visual creation and reflection *on top of* the artefacts. This second half of the project is where new visual material was being created aside to *re-enter* the artefacts better.
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
+## A photographical analysis *to* the artefacts
+⋅⋅* Analysis of political rhetorics and personal character through journalist photography. (method: content - what is in the photograph?)
+⋅⋅* Analysis of the “speaker-audience-place” relationships and their exchange through journalist photography. (method: form - how are the photograph?)
+⋅⋅* to question and examine the value of photography in political events, in terms of preservation of information. (method: form of form - what is it about photograph?)
 
 ### Research Sub-sub-heading (H3)
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
