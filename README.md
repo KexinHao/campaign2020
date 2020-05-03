@@ -22,14 +22,51 @@ A series of photographs of politicians giving speeches in various occasions and 
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
 | **Type** | Visual Documents
 | **Medium** | Photo
-| **Date** | 1947, 1 mei.
+| **Date & Location** | 1947 1 mei, Amsterdam
+| **Subject Person** | Paul de Groot
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience.
-**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
+**IISG Call Number** | [IISG BG B24/643 ](https://hdl.handle.net/10622/FD5D0CBB-EA09-48CA-8F4D-FC2632334266)
 | **Type** | Visual Documents
 | **Medium** | Photo
-| **Date** | 1947, 1 mei.
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience.
-
+| **Date** | 1932 21 marrt, Doorn
+| **Subject Person** | Hendrik De Man
+|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)| De man gave speech to SDSC.
+**IISG Call Number** | [IISG BG B24/405 ](https://hdl.handle.net/10622/D6E46F32-F4E5-4A2F-8969-5E9E41245FF9)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | 1955, Vierhouten
+| **Subject Person** | Willem Schermerhorn
+|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)| Schermerhorn gave speech at AJC. Pinksterfeest.
+**IISG Call Number** | [IISG BG A56/175  ](https://hdl.handle.net/10622/BFD29E58-30EE-4BB2-BF74-3FFCA1E61D63)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | 1955, Vierhouten
+| **Subject Person** | Ad van Moock
+|![enter image description here](https://hdl.handle.net/10622/30051000819695?locatt=view:level3)| Herzberg gave speech at AJC. Pinksterfeest.
+**IISG Call Number** | [IISG BG A22/834  ](https://hdl.handle.net/10622/F13D740C-B058-4823-AE74-01E5CE27776D)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | -unknown-
+| **Subject Person** | D Bakker
+|![enter image description here](https://hdl.handle.net/10622/30051000301587?locatt=view:level3)| A portrait of D Bakker, collection of Willem Banning and Persfotobureau "Folkers".
+**IISG Call Number** | [IISG BG B24/613  ](https://hdl.handle.net/10622/AEE57E74-B6C2-4377-B250-1E329A4D152C)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | -unknown-
+| **Subject Person** | J.A.W Burger
+|![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)| A portrait of Burger giving speech at PvdA meeting.
+**IISG Call Number** | [IISG BG A56/874-5  ](https://hdl.handle.net/10622/9DDA7438-438D-4E2E-9ECD-0D5D981AB7E4)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | -unknown-
+| **Subject Person** | J.K.M Gevers
+|![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)| -no more information-
+**IISG Call Number** | [IISG BG A62/733 ](https://hdl.handle.net/10622/D16A8D4B-F4B0-4B80-B96E-856E282C11E8)
+| **Type** | Visual Documents
+| **Medium** | Photo
+| **Date** | Ca. 1930
+| **Subject Person** | Koos Vorrink
+|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| Speech at the IJsclubterrein in Amsterdam.
 # Research (H1)
 
 This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
