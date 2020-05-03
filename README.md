@@ -24,8 +24,7 @@ A series of photographs of politicians giving speeches in various occasions and 
 | **Medium** | Photo
 | **Date & Location** | 1947 1 mei, Amsterdam
 | **Subject Person** | Paul de Groot
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <ul><li>fact:<br>This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience.</li><li>photographical values:<br>The body of the speaker only takes the top 1/5 of the whole picture. The tall stage takes up most of the space in the picture. The flash and the angle made its height and existence very pronounced.
-There is a pattern of wrinkle on the bottom right corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li></ul>
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <ul><li>internal values:<br>This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience. Paul de Groot was a Dutch politician of the Communist Party of the Netherlands (CPN).He is a member of the House of Representatives of the States General, from 20 November 1945 to 1 February 1966; an editor-in-chief daily newspaper "De Waarheid", from January 1948 to July 1948 and the party chairman of the CPN House of Representatives of the States.[^1] Ook al brak de macht van Stalin in de Sovjetunie af, Paul bleef het Stalinisme koestern, dit begon in 1957 tegen hem te werken.[^2]</li><li>external values:<br>The body of the speaker only takes the top 1/5 of the whole picture. The tall stage takes up most of the space in the picture. The flash and the angle made its height and existence very pronounced. There is a pattern of wrinkle on the bottom right corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li></ul>
 **IISG Call Number** | [IISG BG B24/643 ](https://hdl.handle.net/10622/FD5D0CBB-EA09-48CA-8F4D-FC2632334266)
 | **Type** | Visual Documents
 | **Medium** | Photo
@@ -110,6 +109,9 @@ There is a pattern of wrinkle on the bottom right corner of the photograph. It m
 | **Date & Location** |1969-1974, The Netherlands
 | **Subject Person** | J Lanser
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	Toespraak Lanser tot de algemene vergadering.
+
+[^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
+[^2]:http://www.dedokwerker.nl/paul_de_groot.html
 # Research (H1)
 
 This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
