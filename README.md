@@ -20,92 +20,62 @@ A series of photographs of politicians giving speeches in various occasions and 
 | Tag | Data & Study |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1947 1 mei, Amsterdam
 | **Subject Person** | Paul de Groot
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <ul><li>internal values:<br>This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience. Paul de Groot was a Dutch politician of the Communist Party of the Netherlands (CPN).He is a member of the House of Representatives of the States General, from 20 November 1945 to 1 February 1966; an editor-in-chief daily newspaper "De Waarheid", from January 1948 to July 1948 and the party chairman of the CPN House of Representatives of the States.[^1] Ook al brak de macht van Stalin in de Sovjetunie af, Paul bleef het Stalinisme koestern, dit begon in 1957 tegen hem te werken.[^2]</li><li>external values:<br>The body of the speaker only takes the top 1/5 of the whole picture. The tall stage takes up most of the space in the picture. The flash and the angle made its height and existence very pronounced. There is a pattern of wrinkle on the bottom right corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li></ul>
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <li>internal values:<br>This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience. Paul de Groot was a Dutch politician of the Communist Party of the Netherlands (CPN).He is a member of the House of Representatives of the States General, from 20 November 1945 to 1 February 1966; an editor-in-chief daily newspaper "De Waarheid", from January 1948 to July 1948 and the party chairman of the CPN House of Representatives of the States.[^1] Ook al brak de macht van Stalin in de Sovjetunie af, Paul bleef het Stalinisme koestern, dit begon in 1957 tegen hem te werken.[^2]</li><li>external values:<br>The body of the speaker only takes the top 1/5 of the whole picture. The tall stage takes up most of the space in the picture. The flash and the angle made its height and existence very pronounced. There is a pattern of wrinkle on the bottom right corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li>
 **IISG Call Number** | [IISG BG B24/643 ](https://hdl.handle.net/10622/FD5D0CBB-EA09-48CA-8F4D-FC2632334266)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1932 21 marrt, Doorn
 | **Subject Person** | Hendrik De Man
-|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)| De man gave speech to SDSC.
+|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)| <ul><li>internal values:<br>De man gave speech to SDSC. Henrik de Man was a Belgian politician and leader of the Belgian Labour Party (POB-BWP). De Man was responsible for a plan which some say was devised to halt the rise of fascism in Belgium, but according to most other historians—as even his own memoirs attest—was part of his own turn toward fascism. This became overwhelmingly clear when he served as de facto prime minister directly under the Nazi occupation from June 1940. This plan became widely known as *'Het Plan de Man'* and was an example of planism. </li><li>external values:<br>The body of the speaker only takes the top 1/5 of the whole picture. The tall stage takes up most of the space in the picture. The flash and the angle made its height and existence very pronounced. There is a pattern of wrinkle on the bottom right corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li></ul>
 **IISG Call Number** | [IISG BG B24/405 ](https://hdl.handle.net/10622/D6E46F32-F4E5-4A2F-8969-5E9E41245FF9)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1955, Vierhouten
 | **Subject Person** | Willem Schermerhorn
 |![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)| Schermerhorn gave speech at AJC. Pinksterfeest.
 **IISG Call Number** | [IISG BG A56/175  ](https://hdl.handle.net/10622/BFD29E58-30EE-4BB2-BF74-3FFCA1E61D63)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1955, Vierhouten
 | **Subject Person** | Ad van Moock
 |![enter image description here](https://hdl.handle.net/10622/30051000819695?locatt=view:level3)| Herzberg gave speech at AJC. Pinksterfeest.
 **IISG Call Number** | [IISG BG A22/834  ](https://hdl.handle.net/10622/F13D740C-B058-4823-AE74-01E5CE27776D)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | -unknown-
 | **Subject Person** | D Bakker
 |![enter image description here](https://hdl.handle.net/10622/30051000301587?locatt=view:level3)| A portrait of D Bakker, collection of Willem Banning and Persfotobureau "Folkers".
 **IISG Call Number** | [IISG BG B24/613  ](https://hdl.handle.net/10622/AEE57E74-B6C2-4377-B250-1E329A4D152C)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | -unknown-
 | **Subject Person** | J.A.W Burger
 |![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)| A portrait of Burger giving speech at PvdA meeting.
 **IISG Call Number** | [IISG BG A56/874-5  ](https://hdl.handle.net/10622/9DDA7438-438D-4E2E-9ECD-0D5D981AB7E4)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | -unknown-
 | **Subject Person** | J.K.M Gevers
 |![enter image description here](https://hdl.handle.net/10622/30051001331740?locatt=view:level3)| -no more information-
 **IISG Call Number** | [IISG BG A62/733 ](https://hdl.handle.net/10622/D16A8D4B-F4B0-4B80-B96E-856E282C11E8)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | Ca. 1930, Amsterdam
 | **Subject Person** | Koos Vorrink
 |![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| Speech at the IJsclubterrein in Amsterdam.
 **IISG Call Number** | [IISG BG B27/132-4 ](https://hdl.handle.net/10622/3301805F-B405-464A-9985-1456A0FDDACF)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1925-1949, Haarlem
 | **Subject Person** | Louis de Visser
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001359535)| Louis de Visser gave speech for the Haarlem department
 **IISG Call Number** | [IISG BG A63/14](https://hdl.handle.net/10622/C6273DE3-FCE5-433A-BC43-68DE6724EF82)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1930
 | **Subject Person** | Theo van Driesten
 |![enter image description here](https://hdl.handle.net/10622/30051002713250?locatt=view:level3)| -
 **IISG Call Number** | [IISG BG A42/875](https://hdl.handle.net/10622/DEE61CA6-F947-4DDE-88D1-0B83D0CD7FD0)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1985 April 18, Bruxelles
 | **Subject Person** | Willy Brandt
 |![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| Speech of Brandt on the occasion of the 100th anniversary of the SP / PS.
 **IISG Call Number** | [IISG BG B19/526 ](https://hdl.handle.net/10622/7AF0B08F-C4F3-4208-9CAF-681419A67B0B)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1947 8 September
 | **Subject Person** | Sicco Manscholt
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000484136)| -
 **IISG Call Number** | [IISG BG B29/27 ](https://hdl.handle.net/10622/87000F4C-FA69-4F44-A0AE-0ED359E24D87)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1947 7 September, Amersfoort
 | **Subject Person** | Gerben Wagenaar
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001509105)| Speech of G. Wagenaar at Waarheid zomerfeest in Birkhoven.
 **IISG Call Number** | [CSD BG B23/480](https://hdl.handle.net/10622/087DFBCD-DD99-43FB-8B69-180C10CED610)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** | 1968 Decemember, Amsterdam
 | **Subject Person** | G.H Veringa
 |![enter image description here](https://hdl.handle.net/10622/30051000799707?locatt=view:level3)| Speech of Veringa in Maagdenhuis.
 **IISG Call Number** | [IISG BG B26/391](https://hdl.handle.net/10622/5061FF8A-94DA-4219-B95F-A9E1B6398787)
-| **Type** | Visual Documents
-| **Medium** | Photo
 | **Date & Location** |1969-1974, The Netherlands
 | **Subject Person** | J Lanser
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	Toespraak Lanser tot de algemene vergadering.
