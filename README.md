@@ -108,8 +108,8 @@ My approaches to the artefacts consist of two parts:
     1. What has the the photographical strategy done/added to the information?
     2. What has the materiality, the physical quality of photography and the age-ing of the material done/added/reduced to the information?
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
+### [A table of indexes of reconstruction]
+[A table of indexes of reconstruction]:https://www.notion.so/a4eb1adef6f5400a85285c7ce558e2e7?v=1fce2c8c2cd4463397c9e0255155337c
 
 # Transcoding
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
