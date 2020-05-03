@@ -2,7 +2,7 @@
 # TITLE HERE Example README.md Outline
 
 ### Table of Contents
-1. [Artefact](#Artefact)
+1. [Artefact & Research](#Artefact & Research)
     1. [Metadata](#Metadata)
 2. [Approaches](#Approaches-h1)
 3. [Transcoding](#Transcoding)
@@ -13,7 +13,7 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography)
 
-# Artefact
+# Artefact & Research
 A series of photographs of politicians giving speeches in various occasions and times. Search word in archive: toespraak.
 
 ## Metadata
@@ -99,9 +99,11 @@ A series of photographs of politicians giving speeches in various occasions and 
 
 My approaches to the artefacts consist of two parts:
  1. A photographical analysis *to* the artefacts. This happended in the first half phase of the project which is more of studying the artefacts themselves.
- 2. A visual creation and reflection *on top of* the artefacts. This second half of the project is where new visual material was being created aside to *re-enter* the artefacts better.
+ 2. A visual creation and reflection *on top of* the artefacts. This second half of the project is where new visual material was being created aside to *re-enter* the artefacts better. This has led to the main transcoding tool.
 
 ## A photographical analysis *to* the artefacts
+Photograph of politik toespraak gives out information of the event on a very minimal level. If we want to investigate architecture, we look at photographs of them and we know how they are built up. If we research about fashion, photographs of the clothing provides enough. However, Political speeches are less about still visuals. They are about what they SPEAK about (audio, text).
+What is the value of the photograph then? The archival value and functionality of photography for political speeches is interesting. The materiality's contribution has a bigger proportion to the information.
  1. Analysis of political rhetorics and personal character through journalist photography. (method: content - what is in the photograph?)
  2. Analysis of the “speaker-audience-place” relationships and their exchange through journalist photography. (method: form - how are the photograph?)
  3. to question and examine the value of photography in political events, in terms of preservation of information. (method: form of form - what is it about photograph?)
@@ -110,6 +112,11 @@ My approaches to the artefacts consist of two parts:
 
 ### [A table of indexes of reconstruction]
 [A table of indexes of reconstruction]:https://www.notion.so/a4eb1adef6f5400a85285c7ce558e2e7?v=1fce2c8c2cd4463397c9e0255155337c
+
+## An Re-entry to the artefacts
+Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements?
+If we look at the visual materials of political campaign in 21 and late 20 century in West Europe, we could notice that the modernistic approaches in the graphic design is very permanent. Typography in the posters takes the main role in the visual strategy. The use of photography is very restrained.
+But if you look at the graphic design within the same domain of politcial campaign in Taiwan.
 
 # Transcoding
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
