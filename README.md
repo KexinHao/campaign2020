@@ -30,7 +30,7 @@ A series of photographs of politicians giving speeches in various occasions and 
 **IISG Call Number** | [IISG BG B24/405 ](https://hdl.handle.net/10622/D6E46F32-F4E5-4A2F-8969-5E9E41245FF9)
 | **Date & Location** | 1955, Vierhouten
 | **Subject Person** | Willem Schermerhorn
-|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)|  <ul><li>internal values:<br>Schermerhorn gave speech at AJC. Pinksterfeest. Schermerhorn was a Dutch politician of the defunct Free-thinking Democratic League (VDB) and later co-founder of the Labour Party (PvdA). He served as Prime Minister of the Netherlands from 25 June 1945 until 3 July 1946. *Eenheid door Democratie* [^4] of voluit Nederlandsche Beweging voor Eenheid door Democratie (EDD), was een Nederlandse buitenparlementaire beweging die zich van 1935 tot 1940 tegen zowel het nationaalsocialisme als het communisme richtte. EDD werd op 27 juni 1935 opgericht door Pieter Geyl, Wim Schermerhorn en anderen als reactie op het succes van de NSB bij de Provinciale Statenverkiezingen van april 1935. </li><li>external values:<br>The photographer did not aim to shoot a portrait of the politician but more to document the event by trying to include the audience and the environment.</li></ul>
+|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)|  <ul><li>internal values:<br>Schermerhorn gave speech at AJC. Pinksterfeest. </li><li>external values:<br>The photographer did not aim to shoot a portrait of the politician but more to document the event by trying to include the audience, the environment and the situation.</li><li>background investigation:<br>Schermerhorn was a Dutch politician of the defunct Free-thinking Democratic League (VDB) and later co-founder of the Labour Party (PvdA). He served as Prime Minister of the Netherlands from 25 June 1945 until 3 July 1946. *Eenheid door Democratie* [^4] of voluit Nederlandsche Beweging voor Eenheid door Democratie (EDD), was een Nederlandse buitenparlementaire beweging die zich van 1935 tot 1940 tegen zowel het nationaalsocialisme als het communisme richtte. EDD werd op 27 juni 1935 opgericht door Pieter Geyl, Wim Schermerhorn en anderen als reactie op het succes van de NSB bij de Provinciale Statenverkiezingen van april 1935. </li></ul>
 **IISG Call Number** | [IISG BG A22/834  ](https://hdl.handle.net/10622/F13D740C-B058-4823-AE74-01E5CE27776D)
 | **Date & Location** | -unknown-
 | **Subject Person** | D Bakker
@@ -38,27 +38,27 @@ A series of photographs of politicians giving speeches in various occasions and 
 **IISG Call Number** | [IISG BG B24/613  ](https://hdl.handle.net/10622/AEE57E74-B6C2-4377-B250-1E329A4D152C)
 | **Date & Location** | -unknown-
 | **Subject Person** | J.A.W Burger
-|![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)|  <ul><li>internal values:<br>This is a portrait of Burger giving speech at PvdA meeting. Burger was a Dutch politician of the Social Democratic Workers' Party (SDAP) and later co-founder of the Labour Party (PvdA) and jurist. Mede door zijn directe wijze van uitdrukken en doortastende optreden wist hij in 1973 een wig te drijven in het confessionele kamp en werd hij de architect van het kabinet-Den Uyl. [^5] </li><li>external values:<br>His hand is in the center of the photograph. His face looks confident and relaxed.</li></ul>
+|![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)|  <ul><li>internal values:<br>This is a portrait of Burger giving speech at PvdA meeting. </li><li>external values:<br>His hand is in the center of the photograph. His face looks confident and relaxed.</li><li>background investigation:<br>Burger was a Dutch politician of the Social Democratic Workers' Party (SDAP) and later co-founder of the Labour Party (PvdA) and jurist. Mede door zijn directe wijze van uitdrukken en doortastende optreden wist hij in 1973 een wig te drijven in het confessionele kamp en werd hij de architect van het kabinet-Den Uyl. [^5] </li></ul>
 **IISG Call Number** | [IISG BG A56/874-5  ](https://hdl.handle.net/10622/9DDA7438-438D-4E2E-9ECD-0D5D981AB7E4)
 | **Date & Location** | -unknown-
 | **Subject Person** | J.K.M Gevers
-|![enter image description here](https://hdl.handle.net/10622/30051001331740?locatt=view:level3)| -no more information-
+|![enter image description here](https://hdl.handle.net/10622/30051001331740?locatt=view:level3)| <ul><li>external values:<br>It was not a monumental moment when the subject person just wanted to check his watch.</li><li>background investigation:<br>J.K.M Gevers is voorzitter van het College van Bestuur van de Universiteit van Amsterdam. Verschillende van zijn redes bij de opening van het Academisch Jaar werden gepubliceerd. Ons Erfdeel. Jaargang 36[^7] is an artical he published.<li><ui>
 **IISG Call Number** | [IISG BG A62/733 ](https://hdl.handle.net/10622/D16A8D4B-F4B0-4B80-B96E-856E282C11E8)
 | **Date & Location** | Ca. 1930, Amsterdam
 | **Subject Person** | Koos Vorrink
-|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| Speech at the IJsclubterrein in Amsterdam.
+|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| <ul><li>internal values:<br>Speech at the IJsclubterrein in Amsterdam. </li><li>external values:<br>The momentum in the photograph of Koos Vorrink is totally different from what we experience from the photograph of Johan Willem Albarda. The photographer aimed to captured the momentum of the speech: he was emphasising on something by waving his finger in the air. His head has a gesture, too.</li><li>background investigation:<br>He started his career as a schoolteacher. On 1 November 1920 he became secretary of the Arbeiders Jeugd Organisatie (AJC)[^8], the Dutch socialist youth movement. On 11 May 1924 he became chairman of the socialist youth movement.</li></ul>
 **IISG Call Number** | [IISG BG B27/132-4 ](https://hdl.handle.net/10622/3301805F-B405-464A-9985-1456A0FDDACF)
 | **Date & Location** | 1925-1949, Haarlem
 | **Subject Person** | Louis de Visser
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001359535)| Louis de Visser gave speech for the Haarlem department
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001359535)| <ul><li>internal values:<br>Louis de Visser gave speech for the Haarlem department. </li><li>external values:<br>The blurry image of his arm waving in the air indicates the movement. The scratch, the stains (on his pants) and the left over image (frame of a gate vanishing into the darkness) on the photograph somehow promote the tension. </li><li>background investigation:<br>L.L.H de Visser is Communistenleider in het interbellum. [^9] Election propaganda: Kiest Louis de Visser Stempt voor de Communistische Internationale. [^10]</li></ul>
 **IISG Call Number** | [IISG BG A63/14](https://hdl.handle.net/10622/C6273DE3-FCE5-433A-BC43-68DE6724EF82)
 | **Date & Location** | 1930
 | **Subject Person** | Theo van Driesten
-|![enter image description here](https://hdl.handle.net/10622/30051002713250?locatt=view:level3)| -
+|![enter image description here](https://hdl.handle.net/10622/30051002713250?locatt=view:level3)| <ul><li>internal values:<br> - </li><li>external values:<br>Despite the distance, we still can see the mouth of Theo van Driesten and we know he was speaking loud. Then it makes sense since we notice there was no microphone. </li><li>background investigation:<br>Hendrik Theo van Driesten is lid van de Revolutionaire Jeugdbond (RJB) in 1928, vanaf 1930 secretaris en vanaf 1932 voorzitter; in dienst bij het Nationaal Arbeids Secretariaat (NAS) als propagandist c. 1932-1937[^11]</li></ul>
 **IISG Call Number** | [IISG BG A42/875](https://hdl.handle.net/10622/DEE61CA6-F947-4DDE-88D1-0B83D0CD7FD0)
 | **Date & Location** | 1985 April 18, Bruxelles
 | **Subject Person** | Willy Brandt
-|![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| Speech of Brandt on the occasion of the 100th anniversary of the SP / PS.
+|![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| <ul><li>internal values:<br> Speech of Brandt on the occasion of the 100th anniversary of the SP / PS. </li><li>external values:<br> -  </li><li>background investigation:<br>was a German politician and statesman who was leader of the Social Democratic Party of Germany (SPD) from 1964 to 1987 and served as Chancellor of the Federal Republic of Germany (West Germany) from 1969 to 1974. Die Botschaft war schlicht, sie war prägnant und sie sollte sich als extrem erfolgreich erweisen: „Willy wählen“ hieß der Slogan, mit dem die SPD den Bundestagswahlkampf 1972 führte. [^12]</li></ul>
 **IISG Call Number** | [IISG BG B19/526 ](https://hdl.handle.net/10622/7AF0B08F-C4F3-4208-9CAF-681419A67B0B)
 | **Date & Location** | 1947 8 September
 | **Subject Person** | Sicco Manscholt
@@ -81,6 +81,12 @@ A series of photographs of politicians giving speeches in various occasions and 
 [^3]:https://en.wikipedia.org/wiki/Henri_de_Man#Plan_de_Man
 [^4]:https://nl.wikipedia.org/wiki/Eenheid_door_Democratie
 [^5]:https://www.parlement.com/id/vg09lkyz2ay0/j_a_w_jaap_burger
+[^7]:https://www.dbnl.org/tekst/_ons003199301_01/_ons003199301_01_0184.php
+[^8]:https://www.vakbondshistorie.nl/dossiers/100-jaar-arbeiders-jeugd-centrale-ajc/
+[^9]:https://www.parlement.com/id/vg09llc23fqf/l_l_h_lou_de_visser
+[^10]:https://www.europeana.eu/en/item/2022096/10622_3E1E9CA0_3938_4A22_A62E_E150DADF5026_cho?l%5Br%5D=9&l%5Bt%5D=65
+[^11]:https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/NL-AmISG/type/fa/id/http_COLON__SLASH__SLASH_hdl.handle.net_SLASH_10622_SLASH_ARCH00368
+[^12]:https://www.insm.de/insm/deutschland-prinzip/die-menschen/willy-brandt
 # Research (H1)
 
 This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
