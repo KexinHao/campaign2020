@@ -46,7 +46,7 @@ A series of photographs of politicians giving speeches in various occasions and 
 **IISG Call Number** | [IISG BG A62/733 ](https://hdl.handle.net/10622/D16A8D4B-F4B0-4B80-B96E-856E282C11E8)
 | **Date & Location** | Ca. 1930, Amsterdam
 | **Subject Person** | Koos Vorrink
-|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| <ul><li>internal values:<br>Speech at the IJsclubterrein in Amsterdam. </li><li>external values:<br>The momentum in the photograph of Koos Vorrink is totally different from what we experience from the photograph of Johan Willem Albarda. The photographer aimed to captured the momentum of the speech: he was emphasising on something by waving his finger in the air. His head has a gesture, too.</li><li>background investigation:<br>He started his career as a schoolteacher. On 1 November 1920 he became secretary of the Arbeiders Jeugd Organisatie (AJC)[^8], the Dutch socialist youth movement. On 11 May 1924 he became chairman of the socialist youth movement.</li></ul>
+|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| <ul><li>internal values:<br>Speech at the IJsclubterrein in Amsterdam. </li><li>external values:<br>The momentum in the photograph of Koos Vorrink is totally different from what we experience from the photograph of D Bakker. The photographer aimed to captured the momentum of the speech: he was emphasising on something by waving his finger in the air. His head has a gesture, too.</li><li>background investigation:<br>He started his career as a schoolteacher. On 1 November 1920 he became secretary of the Arbeiders Jeugd Organisatie (AJC)[^8], the Dutch socialist youth movement. On 11 May 1924 he became chairman of the socialist youth movement.</li></ul>
 **IISG Call Number** | [IISG BG B27/132-4 ](https://hdl.handle.net/10622/3301805F-B405-464A-9985-1456A0FDDACF)
 | **Date & Location** | 1925-1949, Haarlem
 | **Subject Person** | Louis de Visser
@@ -58,23 +58,23 @@ A series of photographs of politicians giving speeches in various occasions and 
 **IISG Call Number** | [IISG BG A42/875](https://hdl.handle.net/10622/DEE61CA6-F947-4DDE-88D1-0B83D0CD7FD0)
 | **Date & Location** | 1985 April 18, Bruxelles
 | **Subject Person** | Willy Brandt
-|![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| <ul><li>internal values:<br> Speech of Brandt on the occasion of the 100th anniversary of the SP / PS. </li><li>external values:<br> -  </li><li>background investigation:<br>was a German politician and statesman who was leader of the Social Democratic Party of Germany (SPD) from 1964 to 1987 and served as Chancellor of the Federal Republic of Germany (West Germany) from 1969 to 1974. Die Botschaft war schlicht, sie war prägnant und sie sollte sich als extrem erfolgreich erweisen: „Willy wählen“ hieß der Slogan, mit dem die SPD den Bundestagswahlkampf 1972 führte. [^12]</li></ul>
+|![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| <ul><li>internal values:<br> Speech of Brandt on the occasion of the 100th anniversary of the SP / PS. </li><li>external values:<br> -  </li><li>background investigation:<br>Willy Brandt was a German politician and statesman who was leader of the Social Democratic Party of Germany (SPD) from 1964 to 1987 and served as Chancellor of the Federal Republic of Germany (West Germany) from 1969 to 1974. Die Botschaft war schlicht, sie war prägnant und sie sollte sich als extrem erfolgreich erweisen: „Willy wählen“ hieß der Slogan, mit dem die SPD den Bundestagswahlkampf 1972 führte. [^12]</li></ul>
 **IISG Call Number** | [IISG BG B19/526 ](https://hdl.handle.net/10622/7AF0B08F-C4F3-4208-9CAF-681419A67B0B)
 | **Date & Location** | 1947 8 September
-| **Subject Person** | Sicco Manscholt
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000484136)| -
+| **Subject Person** | Sicco Mansholt
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000484136)| <ul><li>internal values:<br> - </li><li>external values:<br> extreme contrast. The blackness has devoured the details in the photograph.  </li><li>background investigation:<br>Sicco Leendert Mansholt was a Dutch politician and diplomat of the defunct Social Democratic Workers' Party (SDAP) and later the Labour Party (PvdA) and farmer who served as the President of the European Commission from 1 March 1972 until 5 January 1973. He moved to Java in the Dutch East Indies, nowadays Indonesia, and started work on a tea plantation. He returned to the Netherlands in 1936, unhappy with the colonial system. He wanted to become a farmer and moved to the Wieringermeer, a polder, reclaimed in 1937. There he started his own farm. In the years of the Second World War he was an active member of the Resistance. He helped people who were in acute danger to hide in the Wieringermeerpolder; he organised clandestine food distributions for the western provinces. Immediately after the war, in June 1945, socialist Labour Party (PvdA) Prime Minister Schermerhorn asked him to take a seat in his cabinet as minister of Agriculture, Fishery and Food Distribution. [^13]</li></ul>
 **IISG Call Number** | [IISG BG B29/27 ](https://hdl.handle.net/10622/87000F4C-FA69-4F44-A0AE-0ED359E24D87)
 | **Date & Location** | 1947 7 September, Amersfoort
 | **Subject Person** | Gerben Wagenaar
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001509105)| Speech of G. Wagenaar at Waarheid zomerfeest in Birkhoven.
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001509105)| <ul><li>internal values:<br> Speech of G. Wagenaar at Waarheid zomerfeest in Birkhoven. </li><li>external values:<br> - </li><li>background investigation:<br>Gerben Wagenaar was a member of the Communist Party of the Netherlands (CPN). After the Nazis conquered the Netherlands, he became a member of the Dutch resistance.[^14] Election poster: Naar links. Kies communisten.[^15]Meer Wongingen![^16] Voor Opbouw, Vrede en Socialisms.[^17]</li></ul>
 **IISG Call Number** | [CSD BG B23/480](https://hdl.handle.net/10622/087DFBCD-DD99-43FB-8B69-180C10CED610)
 | **Date & Location** | 1968 Decemember, Amsterdam
 | **Subject Person** | G.H Veringa
-|![enter image description here](https://hdl.handle.net/10622/30051000799707?locatt=view:level3)| Speech of Veringa in Maagdenhuis.
+|![enter image description here](https://hdl.handle.net/10622/30051000799707?locatt=view:level3)| <ul><li>internal values:<br> Speech of Veringa in Maagdenhuis. </li><li>external values:<br> - </li><li>background investigation:<br>Gerard Heinrich Veringa was a Dutch politician of the defunct Catholic People's Party (KVP) now merged into the Christian Democratic Appeal (CDA) party and criminologist.[^18] Bracht in 1970 een wijziging (Stb. 494) van de Wet op het wetenschappelijk onderwijs tot stand in verband met een algemene herziening van de bekostigingsregeling voor de openbare en bijzondere instellingen van wetenschappelijk onderwijs. Er komt daardoor een volledig gelijke bekostiging van bijzondere en openbare universiteiten en hogescholen; *de rijksbijdrage voor bijzondere instellingen gaat naar 100 procent*. Het rijkstoezicht (met name op bijzondere instellingen) wordt verscherpt.[^19] </li></ul>
 **IISG Call Number** | [IISG BG B26/391](https://hdl.handle.net/10622/5061FF8A-94DA-4219-B95F-A9E1B6398787)
 | **Date & Location** |1969-1974, The Netherlands
 | **Subject Person** | J Lanser
-|![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	Toespraak Lanser tot de algemene vergadering.
+|![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	<ul><li>internal values:<br> Toespraak Lanser tot de algemene vergadering. </li><li>external values:<br> - </li><li>background investigation:<br>Jan Lanser wordt na een loopbaan binnen de CMB (Christelijke Metaalbewerkersbond) in 1967 lid van het CNV-bestuur. Twee jaar later werd hij voorzitter van het CNV. Lanser wordt de man, die leiding moet geven aan het CNV in de tijd van gesprekken over federatieve samenwerking met de twee andere vakcentrales. Die gesprekken lopen in januari 1974 vast als blijkt dat NVV en NKV willen aankoersen op een fusie en het CNV niet verder wil gaan dan federatieve samenwerking. *vakcentrales houden vergadering in Den Bosch over werkloosheid* [^20]</li></ul>
 
 [^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
 [^2]:http://www.dedokwerker.nl/paul_de_groot.html
@@ -87,6 +87,14 @@ A series of photographs of politicians giving speeches in various occasions and 
 [^10]:https://www.europeana.eu/en/item/2022096/10622_3E1E9CA0_3938_4A22_A62E_E150DADF5026_cho?l%5Br%5D=9&l%5Bt%5D=65
 [^11]:https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/NL-AmISG/type/fa/id/http_COLON__SLASH__SLASH_hdl.handle.net_SLASH_10622_SLASH_ARCH00368
 [^12]:https://www.insm.de/insm/deutschland-prinzip/die-menschen/willy-brandt
+[^13]:https://en.wikipedia.org/wiki/Sicco_Mansholt
+[^14]:https://en.wikipedia.org/wiki/Gerben_Wagenaar
+[^15]:https://search.iisg.amsterdam/Record/913219
+[^16]:https://geheugen.delpher.nl/nl/geheugen/view?coll=ngvn&identifier=NAGO02%3AIISG-30051000787207
+[^17]:https://www.europeana.eu/en/item/180/10622_91D35BD5_570E_432A_9679_12162F677EF7_cho
+[^18]:https://en.wikipedia.org/wiki/Gerard_Veringa
+[^19]:https://www.parlement.com/id/vg09llh6rwx3/g_h_gerard_veringa
+[^20]:https://commons.wikimedia.org/wiki/File:Drie_vakcentrales_houden_vergadering_in_Den_Bosch_over_werkloosheid_v.l.n.r._A.,_Bestanddeelnr_925-4499.jpg
 # Research (H1)
 
 This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
