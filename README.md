@@ -143,15 +143,9 @@ Looking at those politicians in the photos with very limited information given, 
 ### Description
 | original| transcoded |  
 |--|--|
-**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| [<img src="Documentation/img/pauldegroot.jpg" width="50%">]
-| **Date & Location** | 1932 21 marrt, Doorn
-| **Subject Person** | Hendrik De Man
-|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)|
-**IISG Call Number** | [IISG BG B24/405 ](https://hdl.handle.net/10622/D6E46F32-F4E5-4A2F-8969-5E9E41245FF9)
-| **Date & Location** | 1955, Vierhouten
-| **Subject Person** | Willem Schermerhorn
-|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)|  <ul><li>internal values:<br>Schermerhorn gave speech at AJC. Pinksterfeest. </li><li>external values:<br>The photographer did not aim to shoot a portrait of the politician but more to document the event by trying to include the audience, the environment and the situation.</li><li>background investigation:<br>Schermerhorn was a Dutch politician of the defunct Free-thinking Democratic League (VDB) and later co-founder of the Labour Party (PvdA). He served as Prime Minister of the Netherlands from 25 June 1945 until 3 July 1946. *Eenheid door Democratie* [^4] of voluit Nederlandsche Beweging voor Eenheid door Democratie (EDD), was een Nederlandse buitenparlementaire beweging die zich van 1935 tot 1940 tegen zowel het nationaalsocialisme als het communisme richtte. EDD werd op 27 juni 1935 opgericht door Pieter Geyl, Wim Schermerhorn en anderen als reactie op het succes van de NSB bij de Provinciale Statenverkiezingen van april 1935. </li></ul>
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <img src="Documentation/img/pauldegroot.jpg" width="50%">
+|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)|<img src="Documentation/img/henrikdeman.jpg" width="50%">
+|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)|  <img src="Documentation/img/wimschermerhorn.jpg" width="50%">
 **IISG Call Number** | [IISG BG A22/834  ](https://hdl.handle.net/10622/F13D740C-B058-4823-AE74-01E5CE27776D)
 | **Date & Location** | -unknown-
 | **Subject Person** | D Bakker
