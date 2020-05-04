@@ -167,25 +167,25 @@ Looking at those politicians in the photos with very limited information given, 
 ### Methods  
 ### Results
 ### Source Links
-[^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
-[^2]:http://www.dedokwerker.nl/paul_de_groot.html
-[^3]:https://en.wikipedia.org/wiki/Henri_de_Man#Plan_de_Man
-[^4]:https://nl.wikipedia.org/wiki/Eenheid_door_Democratie
-[^5]:https://www.parlement.com/id/vg09lkyz2ay0/j_a_w_jaap_burger
-[^7]:https://www.dbnl.org/tekst/_ons003199301_01/_ons003199301_01_0184.php
-[^8]:https://www.vakbondshistorie.nl/dossiers/100-jaar-arbeiders-jeugd-centrale-ajc/
-[^9]:https://www.parlement.com/id/vg09llc23fqf/l_l_h_lou_de_visser
-[^10]:https://www.europeana.eu/en/item/2022096/10622_3E1E9CA0_3938_4A22_A62E_E150DADF5026_cho?l%5Br%5D=9&l%5Bt%5D=65
-[^11]:https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/NL-AmISG/type/fa/id/http_COLON__SLASH__SLASH_hdl.handle.net_SLASH_10622_SLASH_ARCH00368
-[^12]:https://www.insm.de/insm/deutschland-prinzip/die-menschen/willy-brandt
-[^13]:https://en.wikipedia.org/wiki/Sicco_Mansholt
-[^14]:https://en.wikipedia.org/wiki/Gerben_Wagenaar
-[^15]:https://search.iisg.amsterdam/Record/913219
-[^16]:https://geheugen.delpher.nl/nl/geheugen/view?coll=ngvn&identifier=NAGO02%3AIISG-30051000787207
-[^17]:https://www.europeana.eu/en/item/180/10622_91D35BD5_570E_432A_9679_12162F677EF7_cho
-[^18]:https://en.wikipedia.org/wiki/Gerard_Veringa
-[^19]:https://www.parlement.com/id/vg09llh6rwx3/g_h_gerard_veringa
-[^20]:https://commons.wikimedia.org/wiki/File:Drie_vakcentrales_houden_vergadering_in_Den_Bosch_over_werkloosheid_v.l.n.r._A.,_Bestanddeelnr_925-4499.jpg
+[1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
+[2]:http://www.dedokwerker.nl/paul_de_groot.html
+[3]:https://en.wikipedia.org/wiki/Henri_de_Man#Plan_de_Man
+[4]:https://nl.wikipedia.org/wiki/Eenheid_door_Democratie
+[5]:https://www.parlement.com/id/vg09lkyz2ay0/j_a_w_jaap_burger
+[7]:https://www.dbnl.org/tekst/_ons003199301_01/_ons003199301_01_0184.php
+[8]:https://www.vakbondshistorie.nl/dossiers/100-jaar-arbeiders-jeugd-centrale-ajc/
+[9]:https://www.parlement.com/id/vg09llc23fqf/l_l_h_lou_de_visser
+[10]:https://www.europeana.eu/en/item/2022096/10622_3E1E9CA0_3938_4A22_A62E_E150DADF5026_cho?l%5Br%5D=9&l%5Bt%5D=65
+[11]:https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/NL-AmISG/type/fa/id/http_COLON__SLASH__SLASH_hdl.handle.net_SLASH_10622_SLASH_ARCH00368
+[12]:https://www.insm.de/insm/deutschland-prinzip/die-menschen/willy-brandt
+[13]:https://en.wikipedia.org/wiki/Sicco_Mansholt
+[14]:https://en.wikipedia.org/wiki/Gerben_Wagenaar
+[15]:https://search.iisg.amsterdam/Record/913219
+[16]:https://geheugen.delpher.nl/nl/geheugen/view?coll=ngvn&identifier=NAGO02%3AIISG-30051000787207
+[17]:https://www.europeana.eu/en/item/180/10622_91D35BD5_570E_432A_9679_12162F677EF7_cho
+[18]:https://en.wikipedia.org/wiki/Gerard_Veringa
+[19]:https://www.parlement.com/id/vg09llh6rwx3/g_h_gerard_veringa
+[20]:https://commons.wikimedia.org/wiki/File:Drie_vakcentrales_houden_vergadering_in_Den_Bosch_over_werkloosheid_v.l.n.r._A.,_Bestanddeelnr_925-4499.jpg
 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
