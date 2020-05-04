@@ -163,6 +163,7 @@ Looking at those politicians in the photos with very limited information given, 
 <img src="Documentation/img/tvsample.png" width="100%">
 <img src="explainatory/websitesketch.png" width="100%"> [website](Transcoding_website/index.html)
 This website will be an interactive walk through in a form of television news broadcast. There will be banners and billboards running and you can click the images to be directed to the original material (artefact). There will be two screens (one is a host, the other one is a webcam) simulating the situation of a delay live on the tv channel.
+
 ### Aims
 ### Methods  
 ### Results
