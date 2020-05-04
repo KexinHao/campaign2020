@@ -140,7 +140,7 @@ Looking at those politicians in the photos with very limited information given, 
    3. tv news report
 
 ## Transcoding No. 1
-### **Campaign2020** flags
+### ***Campaign2020*** flags
 | original| transcoded |  
 |--|--|
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <img src="Documentation/img/pauldegroot.jpg" width="50%">
@@ -159,8 +159,8 @@ Looking at those politicians in the photos with very limited information given, 
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	 <img src="Documentation/img/jlanser.jpg" width="50%">
 
 ## Transcoding No. 2
-### **Campaign2020** TV broadcast
-[<img src="Documentation/img/tvsample.png" width="100%">]
+### ***Campaign2020*** TV broadcast
+<img src="Documentation/img/tvsample.png" width="100%">
 
 ### Aims
 ### Methods  
