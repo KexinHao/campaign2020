@@ -123,17 +123,82 @@ Last year Taipei has banned flags for election campaign because many people thin
 
 Political campaign in Taiwan really fascinates me. First, it triggers a total different thinking on design. Second, it excites me by the political mania that I have never had in my home country, although we speak the same language. Third, it inspires me into applying this visual strategy to the photography in the archive. I want to retell the stories (the persona, their politics) in the taiwanese way.
 
-Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements?
+Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements at that time? I did research in the questions and translate them with my visual language.
 
 
 # Transcoding
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
+1. image making
+   1. performing
+   2. photographing
+2. images arranging
+   1. a series of posters/flags
+   2. a series of banners
+   3. a website and a television screen to host them together
+3. production
+   1. flag printing
+   2. website
+   3. tv news report
 
 ## Transcoding No. 1
 ### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+| original| transcoded |  
+|--|--|
+**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
+| **Date & Location** | 1947 1 mei, Amsterdam
+| **Subject Person** | Paul de Groot
+|<ul><li>internal values:<br>De man gave speech to SDSC. </li><li>external values:<br>Everyone faces the camera. The photograph shows a very strong presence of the apparatus.</li><li>background investigation:<br>Henrik de Man was a Belgian politician and leader of the Belgian Labour Party (POB-BWP). De Man was responsible for a plan which some say was devised to halt the rise of fascism in Belgium, but according to most other historians—as even his own memoirs attest—was part of his own turn toward fascism. This became overwhelmingly clear when he served as de facto prime minister directly under the Nazi occupation from June 1940. This plan became widely known as *'Het Plan de Man'* and was an example of planism. [^3] </li></ul>
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| [<img src="Documentation/img/pauldegroot.jpg" width="100%">]
+| **Date & Location** | 1932 21 marrt, Doorn
+| **Subject Person** | Hendrik De Man
+|![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)|
+**IISG Call Number** | [IISG BG B24/405 ](https://hdl.handle.net/10622/D6E46F32-F4E5-4A2F-8969-5E9E41245FF9)
+| **Date & Location** | 1955, Vierhouten
+| **Subject Person** | Willem Schermerhorn
+|![enter image description here](https://hdl.handle.net/10622/30051000804333?locatt=view:level3)|  <ul><li>internal values:<br>Schermerhorn gave speech at AJC. Pinksterfeest. </li><li>external values:<br>The photographer did not aim to shoot a portrait of the politician but more to document the event by trying to include the audience, the environment and the situation.</li><li>background investigation:<br>Schermerhorn was a Dutch politician of the defunct Free-thinking Democratic League (VDB) and later co-founder of the Labour Party (PvdA). He served as Prime Minister of the Netherlands from 25 June 1945 until 3 July 1946. *Eenheid door Democratie* [^4] of voluit Nederlandsche Beweging voor Eenheid door Democratie (EDD), was een Nederlandse buitenparlementaire beweging die zich van 1935 tot 1940 tegen zowel het nationaalsocialisme als het communisme richtte. EDD werd op 27 juni 1935 opgericht door Pieter Geyl, Wim Schermerhorn en anderen als reactie op het succes van de NSB bij de Provinciale Statenverkiezingen van april 1935. </li></ul>
+**IISG Call Number** | [IISG BG A22/834  ](https://hdl.handle.net/10622/F13D740C-B058-4823-AE74-01E5CE27776D)
+| **Date & Location** | -unknown-
+| **Subject Person** | D Bakker
+|![enter image description here](https://hdl.handle.net/10622/30051000301587?locatt=view:level3)| <ul><li>internal values:<br>A portrait of D Bakker, collection of Willem Banning and Persfotobureau "Folkers". </li><li>external values:<br>This photograph avoided "the event". We do not see the audience. We do not see him speaking. We see a portrait. We feel the stillness, minimalism and calmness. </li></ul>
+**IISG Call Number** | [IISG BG B24/613  ](https://hdl.handle.net/10622/AEE57E74-B6C2-4377-B250-1E329A4D152C)
+| **Date & Location** | -unknown-
+| **Subject Person** | J.A.W Burger
+|![enter image description here](https://hdl.handle.net/10622/30051000812658?locatt=view:level3)|  <ul><li>internal values:<br>This is a portrait of Burger giving speech at PvdA meeting. </li><li>external values:<br>His hand is in the center of the photograph. His face looks confident and relaxed.</li><li>background investigation:<br>Burger was a Dutch politician of the Social Democratic Workers' Party (SDAP) and later co-founder of the Labour Party (PvdA) and jurist. Mede door zijn directe wijze van uitdrukken en doortastende optreden wist hij in 1973 een wig te drijven in het confessionele kamp en werd hij de architect van het kabinet-Den Uyl. [^5] </li></ul>
+**IISG Call Number** | [IISG BG A56/874-5  ](https://hdl.handle.net/10622/9DDA7438-438D-4E2E-9ECD-0D5D981AB7E4)
+| **Date & Location** | -unknown-
+| **Subject Person** | J.K.M Gevers
+|![enter image description here](https://hdl.handle.net/10622/30051001331740?locatt=view:level3)| <ul><li>external values:<br>It was not a monumental moment when the subject person just wanted to check his watch.</li><li>background investigation:<br>J.K.M Gevers is voorzitter van het College van Bestuur van de Universiteit van Amsterdam. Verschillende van zijn redes bij de opening van het Academisch Jaar werden gepubliceerd. Ons Erfdeel. Jaargang 36[^7] is an artical he published.<li><ui>
+**IISG Call Number** | [IISG BG A62/733 ](https://hdl.handle.net/10622/D16A8D4B-F4B0-4B80-B96E-856E282C11E8)
+| **Date & Location** | Ca. 1930, Amsterdam
+| **Subject Person** | Koos Vorrink
+|![enter image description here](https://hdl.handle.net/10622/30051002757307?locatt=view:level3)| <ul><li>internal values:<br>Speech at the IJsclubterrein in Amsterdam. </li><li>external values:<br>The momentum in the photograph of Koos Vorrink is totally different from what we experience from the photograph of D Bakker. The photographer aimed to captured the momentum of the speech: he was emphasising on something by waving his finger in the air. His head has a gesture, too.</li><li>background investigation:<br>He started his career as a schoolteacher. On 1 November 1920 he became secretary of the Arbeiders Jeugd Organisatie (AJC)[^8], the Dutch socialist youth movement. On 11 May 1924 he became chairman of the socialist youth movement.</li></ul>
+**IISG Call Number** | [IISG BG B27/132-4 ](https://hdl.handle.net/10622/3301805F-B405-464A-9985-1456A0FDDACF)
+| **Date & Location** | 1925-1949, Haarlem
+| **Subject Person** | Louis de Visser
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001359535)| <ul><li>internal values:<br>Louis de Visser gave speech for the Haarlem department. </li><li>external values:<br>The blurry image of his arm waving in the air indicates the movement. The scratch, the stains (on his pants) and the left over image (frame of a gate vanishing into the darkness) on the photograph somehow promote the tension. </li><li>background investigation:<br>L.L.H de Visser is Communistenleider in het interbellum. [^9] Election propaganda: Kiest Louis de Visser Stempt voor de Communistische Internationale. [^10]</li></ul>
+**IISG Call Number** | [IISG BG A63/14](https://hdl.handle.net/10622/C6273DE3-FCE5-433A-BC43-68DE6724EF82)
+| **Date & Location** | 1930
+| **Subject Person** | Theo van Driesten
+|![enter image description here](https://hdl.handle.net/10622/30051002713250?locatt=view:level3)| <ul><li>internal values:<br> - </li><li>external values:<br>Despite the distance, we still can see the mouth of Theo van Driesten and we know he was speaking loud. Then it makes sense since we notice there was no microphone. </li><li>background investigation:<br>Hendrik Theo van Driesten is lid van de Revolutionaire Jeugdbond (RJB) in 1928, vanaf 1930 secretaris en vanaf 1932 voorzitter; in dienst bij het Nationaal Arbeids Secretariaat (NAS) als propagandist c. 1932-1937[^11]</li></ul>
+**IISG Call Number** | [IISG BG A42/875](https://hdl.handle.net/10622/DEE61CA6-F947-4DDE-88D1-0B83D0CD7FD0)
+| **Date & Location** | 1985 April 18, Bruxelles
+| **Subject Person** | Willy Brandt
+|![enter image description here](https://hdl.handle.net/10622/30051000576584?locatt=view:level3)| <ul><li>internal values:<br> Speech of Brandt on the occasion of the 100th anniversary of the SP / PS. </li><li>external values:<br> -  </li><li>background investigation:<br>Willy Brandt was a German politician and statesman who was leader of the Social Democratic Party of Germany (SPD) from 1964 to 1987 and served as Chancellor of the Federal Republic of Germany (West Germany) from 1969 to 1974. Die Botschaft war schlicht, sie war prägnant und sie sollte sich als extrem erfolgreich erweisen: „Willy wählen“ hieß der Slogan, mit dem die SPD den Bundestagswahlkampf 1972 führte. [^12]</li></ul>
+**IISG Call Number** | [IISG BG B19/526 ](https://hdl.handle.net/10622/7AF0B08F-C4F3-4208-9CAF-681419A67B0B)
+| **Date & Location** | 1947 8 September
+| **Subject Person** | Sicco Mansholt
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000484136)| <ul><li>internal values:<br> - </li><li>external values:<br> extreme contrast. The blackness has devoured the details in the photograph.  </li><li>background investigation:<br>Sicco Leendert Mansholt was a Dutch politician and diplomat of the defunct Social Democratic Workers' Party (SDAP) and later the Labour Party (PvdA) and farmer who served as the President of the European Commission from 1 March 1972 until 5 January 1973. He moved to Java in the Dutch East Indies, nowadays Indonesia, and started work on a tea plantation. He returned to the Netherlands in 1936, unhappy with the colonial system. He wanted to become a farmer and moved to the Wieringermeer, a polder, reclaimed in 1937. There he started his own farm. In the years of the Second World War he was an active member of the Resistance. He helped people who were in acute danger to hide in the Wieringermeerpolder; he organised clandestine food distributions for the western provinces. Immediately after the war, in June 1945, socialist Labour Party (PvdA) Prime Minister Schermerhorn asked him to take a seat in his cabinet as minister of Agriculture, Fishery and Food Distribution. [^13]</li></ul>
+**IISG Call Number** | [IISG BG B29/27 ](https://hdl.handle.net/10622/87000F4C-FA69-4F44-A0AE-0ED359E24D87)
+| **Date & Location** | 1947 7 September, Amersfoort
+| **Subject Person** | Gerben Wagenaar
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001509105)| <ul><li>internal values:<br> Speech of G. Wagenaar at Waarheid zomerfeest in Birkhoven. </li><li>external values:<br> - </li><li>background investigation:<br>Gerben Wagenaar was a member of the Communist Party of the Netherlands (CPN). After the Nazis conquered the Netherlands, he became a member of the Dutch resistance.[^14] Election poster: Naar links. Kies communisten.[^15]Meer Wongingen![^16] Voor Opbouw, Vrede en Socialisms.[^17]</li></ul>
+**IISG Call Number** | [CSD BG B23/480](https://hdl.handle.net/10622/087DFBCD-DD99-43FB-8B69-180C10CED610)
+| **Date & Location** | 1968 Decemember, Amsterdam
+| **Subject Person** | G.H Veringa
+|![enter image description here](https://hdl.handle.net/10622/30051000799707?locatt=view:level3)| <ul><li>internal values:<br> Speech of Veringa in Maagdenhuis. </li><li>external values:<br> - </li><li>background investigation:<br>Gerard Heinrich Veringa was a Dutch politician of the defunct Catholic People's Party (KVP) now merged into the Christian Democratic Appeal (CDA) party and criminologist.[^18] Bracht in 1970 een wijziging (Stb. 494) van de Wet op het wetenschappelijk onderwijs tot stand in verband met een algemene herziening van de bekostigingsregeling voor de openbare en bijzondere instellingen van wetenschappelijk onderwijs. Er komt daardoor een volledig gelijke bekostiging van bijzondere en openbare universiteiten en hogescholen; *de rijksbijdrage voor bijzondere instellingen gaat naar 100 procent*. Het rijkstoezicht (met name op bijzondere instellingen) wordt verscherpt.[^19] </li></ul>
+**IISG Call Number** | [IISG BG B26/391](https://hdl.handle.net/10622/5061FF8A-94DA-4219-B95F-A9E1B6398787)
+| **Date & Location** |1969-1974, The Netherlands
+| **Subject Person** | J Lanser
+|![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	<ul><li>internal values:<br> Toespraak Lanser tot de algemene vergadering. </li><li>external values:<br> - </li><li>background investigation:<br>Jan Lanser wordt na een loopbaan binnen de CMB (Christelijke Metaalbewerkersbond) in 1967 lid van het CNV-bestuur. Twee jaar later werd hij voorzitter van het CNV. Lanser wordt de man, die leiding moet geven aan het CNV in de tijd van gesprekken over federatieve samenwerking met de twee andere vakcentrales. Die gesprekken lopen in januari 1974 vast als blijkt dat NVV en NKV willen aankoersen op een fusie en het CNV niet verder wil gaan dan federatieve samenwerking. *vakcentrales houden vergadering in Den Bosch over werkloosheid* [^20]</li></ul>
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
