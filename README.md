@@ -144,7 +144,7 @@ Looking at those politicians in the photos with very limited information given, 
 | original| transcoded |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
-|![enter image description here]<img src="https://disseminate.objectrepository.org/file/level2/10622/30051000586377" width="100%">| <img src="Documentation/img/pauldegroot.jpg" width="100%">
+|![enter image description here] (<img src="https://disseminate.objectrepository.org/file/level2/10622/30051000586377" width="50%">)| <img src="Documentation/img/pauldegroot.jpg" width="50%">
 | **Date & Location** | 1932 21 marrt, Doorn
 | **Subject Person** | Hendrik De Man
 |![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)|
