@@ -161,7 +161,7 @@ Looking at those politicians in the photos with very limited information given, 
 ## Transcoding No. 2
 ### ***Campaign2020*** TV broadcast website
 <img src="Documentation/img/tvsample.png" width="100%">
-<img src="explainatory/websitesketch.png" width="100%"> (../Transcoding_website/index.html)
+<img src="explainatory/websitesketch.png" width="100%"> [website](../Transcoding_website/index.html)
 
 ### Aims
 ### Methods  
