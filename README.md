@@ -20,11 +20,15 @@ A series of photographs of politicians giving speeches in various occasions and 
 
 ## Metadata
 
-| Tag | Data & Research |  
+| Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
-| **Date & Location** | 1947 1 mei, Amsterdam
-| **Subject Person** | Paul de Groot
+**IISG Call Number** | [IISG BG B27/132-4](https://search.iisg.amsterdam/Record/1059399)
+| **Physical Description** | scan of photograph
+| **Type** | Visual Document
+| **Medium** | Photograph
+| **Materials** | Paper
+| **Date** | 1925-1949
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051001359535)| Photographer P.H Vooren captured the moment of Louis de Visser speaking for the Haarlem department.
 
 # research
 
