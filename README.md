@@ -114,17 +114,16 @@ What is the value of the photograph then? The archival value and functionality o
 [A table of indexes of reconstruction]:https://www.notion.so/a4eb1adef6f5400a85285c7ce558e2e7?v=1fce2c8c2cd4463397c9e0255155337c
 
 ## An Re-entry to the artefacts
-![GitHub Logo](/explainatory/poster.png)
-Format: ![Alt Text](url)
-![GitHub Logo](/explainatory/tv.png)
-Format: ![Alt Text](url)
-Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements?
+![](/explainatory/poster.png)
+![](/explainatory/tv.png)
 If we look at the visual materials of political campaign in 21 and late 20 century in West Europe, we could notice that the modernistic approaches in the graphic design is very permanent. Typography in the posters takes the main role in the visual strategy. The use of photography is very restrained.
+
 But if you look at the graphic design within the same domain of political campaign in Taiwan, it is another type of story. Photography is abusively used in the posters. And the posters have taken all kinds of medium and display. Flags, billboards and banners fill up the streets and buildings and leaves no space in your eyes. Politician put up different poses and demonstrate a very romantic gesture in the image making. Text is arranged in a very chaotic manner. Same to the visuals going on in television.
 Last year Taipei has banned flags for election campaign because many people think it is visual pollution. A research also shows that the election flags have been selected as one of the top three ugliest urban elements in Taiwan.
 
-Political campaign in Taiwan really fascinates me. First, it triggers a total different thinking on design. Second, it excites me by the political mania that I have never had in my home country, although we speak the same language. Third, it inspires me into applying this visual strategy to the photography in the archive. I want to retell the stories (the persona, their politics) in the taiwanese way. Or we could even say, that
+Political campaign in Taiwan really fascinates me. First, it triggers a total different thinking on design. Second, it excites me by the political mania that I have never had in my home country, although we speak the same language. Third, it inspires me into applying this visual strategy to the photography in the archive. I want to retell the stories (the persona, their politics) in the taiwanese way.
 
+Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements?
 
 
 # Transcoding
