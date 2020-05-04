@@ -1,22 +1,33 @@
 [<img src="https://github.com/KexinHao/campaign2020/blob/master/explainatory/banner2.png" width="100%">](#)
-# Campaign2020 / Verkiezingen 2020: A Re-entry
+# Campaign2020: A Re-entry
 
 ### Table of Contents
-1. [Artefact & Research](#Artefact_&_Research)
-    1. [Metadata](#Metadata)
-2. [Approaches](#Approaches)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+2. [Approaches](#approaches)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+    2. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
-# Artefact & Research
+# Artefact
+
 A series of photographs of politicians giving speeches in various occasions and times. Search word in archive: toespraak.
 
 ## Metadata
+
+| Tag | Data & Research |  
+|--|--|
+**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
+| **Date & Location** | 1947 1 mei, Amsterdam
+| **Subject Person** | Paul de Groot
+
+# research
+
 | Tag | Data & Research |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
