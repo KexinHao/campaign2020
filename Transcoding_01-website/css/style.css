@@ -1,21 +1,202 @@
-/* Applies to the entire body of the HTML document (except where overridden by more specific
-selectors). */
-body {
-  margin: 25px;
-  background-color: rgb(240,240,240);
+html, body, .grid-container { height: 100%; margin: 0; }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 0.9fr 1.5fr 0.7fr 1fr;
+  grid-template-rows: 0.2fr 0.7fr 3.2fr 1.4fr 0.2fr 0.2fr;
+  gap: 1px 1px;
+  grid-template-areas: "bar1 bar1 bar1 bar1" "banner1 banner1 banner1 banner1" "list flag TV TV" "list banner2 banner2 banner2" "bar2 bar2 bar2 bar2" "bar3 bar3 bar3 bar3";
+}
+
+.TV {
+  display: grid;
+  grid-template-columns: 1.6fr 0.4fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "channel1 ." "channel2 .";
+  grid-area: TV;
+}
+
+.channel1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1.7fr 0.3fr;
+  gap: 1px 1px;
+  grid-area: channel1;
+}
+
+.channel2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1.7fr 0.3fr;
+  gap: 1px 1px;
+  grid-area: channel2;
+}
+
+.flag {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "flag1 flag2";
+  grid-area: flag;
+}
+
+.flag1 { grid-area: flag1; }
+
+.flag2 { grid-area: flag2; }
+.flag img{
+  max-width: 100%;
+  /* max-height: 100%; */
+  display: block;
+}
+.list {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 1px 1px;
+  grid-template-areas: "p1" "p2" "p3" "p4" "p5" "p6" "p7" "p8" "p9" "p10" "p11" "p12" "p13";
+  grid-area: list;
+  overflow-y: scroll;
+}
+
+.list .number {
+  text-align: center;
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 2em;
+  font-weight: bold;
+}
+.list .heads img{
+  margin-left: -10%;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.list .name{
+  margin-left: -50%;
+  font-family: 'Anton', sans-serif;
+  font-size: 2em;
 }
 
-/* Applies to all <h1>...</h1> elements. */
-h1 {
-  font-size: 35px;
-  font-weight: normal;
-  margin-top: 5px;
+.p1 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p1;
+ }
+
+.p2 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p2;
 }
 
-/* Applies to all elements with <... class="someclass"> specified. */
-.someclass { color: red; }
+.p3 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p3;
+}
 
-/* Applies to the element with <... id="someid"> specified. */
-#someid { color: green; }
+.p4 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p4;
+}
+
+.p5 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p5;
+}
+
+.p6 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p6;
+}
+
+.p7 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p7;
+}
+
+.p8 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p8;
+}
+
+.p9 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p9;
+}
+
+.p10 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p10;
+}
+
+.p11 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p11;
+}
+
+.p12 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p12;
+}
+
+.p13 {
+  display: grid;
+  grid-template-columns: 0.6fr 2fr 3fr;
+  grid-template-rows: 1fr;
+  grid-area: p13;
+}
+
+.banner2 {
+  grid-area: banner2;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 6vw;
+}
+
+.banner1 { grid-area: banner1; }
+.banner1 img{
+  max-width: 30%;
+  /* max-height: 100%; */
+  display: block;
+}
+.bar1 { grid-area: bar1; }
+
+.bar2 { grid-area: bar2; }
+
+.bar3 { grid-area: bar3; }
+
+/* For presentation only, no need to copy the code below */
+.grid-container * {
+ border: 1px solid red;
+ position: relative;
+}
+
+/* .grid-container *:after {
+ content:attr(class);
+ position: absolute;
+ top: 0;
+ left: 0;
+} */
