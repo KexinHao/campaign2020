@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact & Research](#Artefact_&_Research)
     1. [Metadata](#Metadata)
-2. [Approaches](#Approaches-h1)
+2. [Approaches](#Approaches)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -140,7 +140,7 @@ Looking at those politicians in the photos with very limited information given, 
    3. tv news report
 
 ## Transcoding No. 1
-### Description
+### **Campaign2020** flags
 | original| transcoded |  
 |--|--|
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <img src="Documentation/img/pauldegroot.jpg" width="50%">
@@ -158,38 +158,14 @@ Looking at those politicians in the photos with very limited information given, 
 |![enter image description here](https://hdl.handle.net/10622/30051000799707?locatt=view:level3)|  <img src="Documentation/img/gerardveringa.jpg" width="50%">
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	 <img src="Documentation/img/jlanser.jpg" width="50%">
 
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+## Transcoding No. 2
+### **Campaign2020** TV broadcast
+[<img src="Documentation/img/tvsample.png" width="100%">]
 
 ### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
+### Methods  
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
 
 
 # Reflection
