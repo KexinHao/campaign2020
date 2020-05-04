@@ -1,4 +1,4 @@
-[<img src="explainatory/websitesketch.png" width="100%">](#)
+[<img src="https://github.com/KexinHao/campaign2020/blob/master/explainatory/banner2.png" width="100%">](#)
 # Campaign2020 / Verkiezingen 2020: A Re-entry
 
 ### Table of Contents
