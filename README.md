@@ -144,10 +144,7 @@ Looking at those politicians in the photos with very limited information given, 
 | original| transcoded |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
-| **Date & Location** | 1947 1 mei, Amsterdam
-| **Subject Person** | Paul de Groot
-|<ul><li>internal values:<br>De man gave speech to SDSC. </li><li>external values:<br>Everyone faces the camera. The photograph shows a very strong presence of the apparatus.</li><li>background investigation:<br>Henrik de Man was a Belgian politician and leader of the Belgian Labour Party (POB-BWP). De Man was responsible for a plan which some say was devised to halt the rise of fascism in Belgium, but according to most other historians—as even his own memoirs attest—was part of his own turn toward fascism. This became overwhelmingly clear when he served as de facto prime minister directly under the Nazi occupation from June 1940. This plan became widely known as *'Het Plan de Man'* and was an example of planism. [^3] </li></ul>
-|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| [<img src="Documentation/img/pauldegroot.jpg" width="100%">]
+|![enter image description here]<img src="https://disseminate.objectrepository.org/file/level2/10622/30051000586377" width="100%">| <img src="Documentation/img/pauldegroot.jpg" width="100%">
 | **Date & Location** | 1932 21 marrt, Doorn
 | **Subject Person** | Hendrik De Man
 |![enter image description here](https://hdl.handle.net/10622/30051000812864?locatt=view:level3)|
