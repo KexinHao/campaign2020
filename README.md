@@ -110,6 +110,7 @@ A series of photographs of politicians giving speeches in various occasions and 
 [^18]:https://en.wikipedia.org/wiki/Gerard_Veringa
 [^19]:https://www.parlement.com/id/vg09llh6rwx3/g_h_gerard_veringa
 [^20]:https://commons.wikimedia.org/wiki/File:Drie_vakcentrales_houden_vergadering_in_Den_Bosch_over_werkloosheid_v.l.n.r._A.,_Bestanddeelnr_925-4499.jpg
+
 # Approaches
 
 My approaches to the artefacts consist of two parts:
@@ -176,7 +177,7 @@ Looking at those politicians in the photos with very limited information given, 
 ## Transcoding No. 2
 ### ***Campaign2020*** TV broadcast website
 <img src="Documentation/img/tvsample.png" width="100%">
-<img src="explainatory/websitesketch.png" width="100%"> [website](Transcoding_website/index.html)
+<img src="explainatory/websitesketch.png" width="100%"> [website](https://kexinhao.github.io/campaign2020/)
 This website will be an interactive walk through in a form of television news broadcast. There will be banners and billboards running and you can click the images to be directed to the original material (artefact). There will be two screens (one is a host, the other one is a webcam) simulating the situation of a delay live on the tv channel.
 
 ### Aims
@@ -198,7 +199,7 @@ This is the main way to access your IMD + Coding outcomes for the semester. So i
 # Conclusion
 You might have a nice conclusive observation to share at the end :)
 
-## Bibliography
+# Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
