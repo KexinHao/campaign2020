@@ -107,9 +107,12 @@ How did the photographers take the photos? How do the photos look and how do the
 
 
 
-| Campaign in The Netherlands | Campaign in Taiwan |  
+| in The Netherlands | in Taiwan |  
 |--|--|
+|Campaign Visual|Campaign Visual|
 |![1](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/30051000294675.jpeg)![2](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/30051000309002.jpeg)![3](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/30051000686748.jpeg)![5](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/30051003228639.jpeg)![6](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/30051003303127.jpeg)![7](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/763.jpeg)![9](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/unnamed.jpg)![10](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/xxl.jpg)| ![1](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/20140922004770.jpg)![2](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/20180409002084.jpg)![3](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/326546d4a185a1ab.jpg)![4](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/37788735_287828398643838_3463745726696128512_o.jpg)![5](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/600_phpgKKAMd.jpeg)![6](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/64ae0870be46272f33a0fa401b16a112.jpg)![7](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/bkntw-20140827154832062-0827_04011_001_01p.jpg)
+|Television|Television|
+|![1](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLtv/DSC_0173.jpg)![3](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLtv/Exitpolls-Eerste-kamer2.jpg)| ![1](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWtv/hqdefault.jpg)![2](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWtv/hqkTvS8h.jpg)![3](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWtv/maxresdefault.jpg)
 
 
 [^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
