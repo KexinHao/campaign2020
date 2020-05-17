@@ -32,6 +32,17 @@ A series of photographs of politicians giving speeches in various occasions and 
 
 # research
 
+**What is in the photographs?**<br>
+The What, Who, Where and When. This is the *internal* value. <br>
+**What is behind the photographs?**<br>
+I researched on the background: what position did the politicians have at that moment? What opinions were they might be speaking of? What kind of campaign were there, from which parties? How did it relate to the times and historical context back then?<br>
+**What is about the photographs?**<br>
+How did the photographers take the photos? How do the photos look and how do the physical qualities of the photographs contribute to the content they are holding?
+
+<details>
+<summary>Analysis</summary>
+
+
 | Tag | Data & Research |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
@@ -90,6 +101,8 @@ A series of photographs of politicians giving speeches in various occasions and 
 | **Date & Location** |1969-1974, The Netherlands
 | **Subject Person** | J Lanser
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	<ul><li>internal values:<br> Toespraak Lanser tot de algemene vergadering. </li><li>external values:<br> - </li><li>background investigation:<br>Jan Lanser wordt na een loopbaan binnen de CMB (Christelijke Metaalbewerkersbond) in 1967 lid van het CNV-bestuur. Twee jaar later werd hij voorzitter van het CNV. Lanser wordt de man, die leiding moet geven aan het CNV in de tijd van gesprekken over federatieve samenwerking met de twee andere vakcentrales. Die gesprekken lopen in januari 1974 vast als blijkt dat NVV en NKV willen aankoersen op een fusie en het CNV niet verder wil gaan dan federatieve samenwerking. *vakcentrales houden vergadering in Den Bosch over werkloosheid* [^20]</li></ul>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
+</details>
 
 [^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
 [^2]:http://www.dedokwerker.nl/paul_de_groot.html
