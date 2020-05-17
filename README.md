@@ -42,7 +42,6 @@ How did the photographers take the photos? How do the photos look and how do the
 <details>
 <summary>Analysis</summary>
 
-
 | Tag | Data & Research |  
 |--|--|
 **IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
@@ -101,8 +100,18 @@ How did the photographers take the photos? How do the photos look and how do the
 | **Date & Location** |1969-1974, The Netherlands
 | **Subject Person** | J Lanser
 |![enter image description here](https://hdl.handle.net/10622/30051001319976?locatt=view:level3)| 	<ul><li>internal values:<br> Toespraak Lanser tot de algemene vergadering. </li><li>external values:<br> - </li><li>background investigation:<br>Jan Lanser wordt na een loopbaan binnen de CMB (Christelijke Metaalbewerkersbond) in 1967 lid van het CNV-bestuur. Twee jaar later werd hij voorzitter van het CNV. Lanser wordt de man, die leiding moet geven aan het CNV in de tijd van gesprekken over federatieve samenwerking met de twee andere vakcentrales. Die gesprekken lopen in januari 1974 vast als blijkt dat NVV en NKV willen aankoersen op een fusie en het CNV niet verder wil gaan dan federatieve samenwerking. *vakcentrales houden vergadering in Den Bosch over werkloosheid* [^20]</li></ul>
-<code style="white-space:nowrap;">Hello World, how is it going?</code>
+
 </details>
+
+
+
+
+
+| Campaign in The Netherlands | Campaign in Taiwan |  
+|--|--|
+|![hehehe](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NL/30051000294675.jpeg)| <ul><li>internal values:<br>This photo was taken by Ben van Meerendonk on 1st May 1947 at May Fest in Olympic Stadion Amsterdam. It documents the moment of Paul de Groot giving speech inside the stadion on a tall stage in front of the audience. </li><li>external values:<br>The body of the speaker only takes the top 1/5 of the whole picture. Theight corner of the photograph. It might be caused by any stretch and humidity. The wrinkle of the photograph itself almost synchronises with the folds on the fabric in the photograph.</li><li>background investigation:<br>Paul de Groot was a Dutch politician of the Communist Party of the Netherlands (CPN).He is a member of the House of Representatives of the States General, from 20 November 1945 to 1 February 1966; an editor-in-chief daily newspaper "De Waarheid", from January 1948 to July 1948 and the party chairman of the CPN House of Representatives of the States.[^1] Ook al brak de macht van Stalin in de Sovjetunie af, Paul bleef het Stalinisme koestern, dit begon in 1957 tegen hem te werken.[^2]</li></ul>
+
+
 
 [^1]:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot
 [^2]:http://www.dedokwerker.nl/paul_de_groot.html
