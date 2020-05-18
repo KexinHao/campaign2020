@@ -30,6 +30,39 @@ var rawurls = [
   "https://disseminate.objectrepository.org/file/level3/10622/30051001319976" //lanser
 ]
 
+var names = [
+  "Paul de Groot", //de paul_de_groot
+  "Henrik de Man", //Plan_de_Man
+  "Wim Schermerhorn", //Schermerhorn
+  "Jaap Burger", //Burger
+  "J.K.M Gevers", //Gevers
+  "Koos Vorrink", //koosvorrink
+  "Louis de Visser", //louis de visseer
+  "Theo van Driesten", //theovandriesten
+  "Willy Brandt", //willybrandt
+  "Sicco Mansholt", //Mansholt
+  "Gerben Wagenaar", //wangenaar
+  "Gerard Veringa", //Veringa
+  "J. Lanser" //lanser
+]
+
+var parties = [
+  "img/assets/cpn.png",
+  "img/assets/bwp-pob.png",
+  "img/assets/pvda.png",
+  "img/assets/sdap.png",
+  "img/assets/xxx.png",
+  "img/assets/ajc.png",
+  "img/assets/ci.png",
+  "img/assets/wfdy.png",
+  "img/assets/spd.png",
+  "img/assets/pvda.png",
+  "img/assets/cpn.png",
+  "img/assets/cda.png",
+  "img/assets/cnv.png"
+]
+
+
 showRandomImage();
 //
 // $("#vs").on("click",function(){
@@ -44,6 +77,8 @@ function showRandomImage() {
   var new_url = urls[index];
   $("#flag1").attr("src",new_url);
   $("#rawpic1").attr("src", rawurls[index]);
+  $(".title1").text(names[index]);
+  $(".logo1").attr("src",parties[index]);
 }
 
 showRandomImage2();
@@ -54,6 +89,8 @@ function showRandomImage2() {
   var new_url = urls[index];
   $("#flag2").attr("src",new_url);
   $("#rawpic2").attr("src", rawurls[index]);
+  $(".title2").text(names[index]);
+  $(".logo2").attr("src",parties[index]);
 }
 
 function startTime() {
