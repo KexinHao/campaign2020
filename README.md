@@ -200,11 +200,11 @@ To study the television scenario. To arrange information in an interative way.
 [Fixxxion.nl Exclusief](https://kexinhao.github.io/campaign2020/)
 
 # Reflection
+It was hard to deal with materials that have no relevance to your life, surroundings and to the current time you live in. But It is always good to think about the reason why you got fascinated by them at first. It must has something to do with your interests. <br>
+It is also a crucial question to ask: How can you contribute to the data in the archive and its resilience? Why are YOU doing this and not others?
 
 # Outcomes
 [Fixxxion.nl Exclusief](https://kexinhao.github.io/campaign2020/)
-
-# Conclusion
 
 # Bibliography
 <a name="footnote-1">**[1]**</a>:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot <br>
