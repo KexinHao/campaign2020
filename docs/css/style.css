@@ -120,6 +120,9 @@ a:visited, a:hover{
   grid-template-areas: "flag1 flag2";
   grid-area: flag;
 }
+.flag:hover{
+  cursor:pointer;
+}
 
 #flag1 { grid-area: flag1; }
 
