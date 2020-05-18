@@ -9,11 +9,10 @@
     1. [Research on visual strategies in political campaign](#research_on_visual_strategies_in_political_campaign)
 3. [Transcoding](#transcoding)
     1. [Transcoding No. 1](#transcoding-no-1)
-    2. [Transcoding Tool](#transcoding-tool)
+    2. [Transcoding No. 2](#transcoding-no-2)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
-6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography)
+6. [Bibliography](#bibliography)
 
 # Artefact
 
