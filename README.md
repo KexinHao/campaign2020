@@ -50,8 +50,8 @@ What is the value of the photograph then? The archival value and functionality o
 
 They are my methods to question and examine the value of photography in political events, in terms of preservation of information. (method: form of form - what is it about photograph?)<br>
 
-    1. What has the the photographical strategy done/added to the information?<br>
-    2. What has the materiality, the physical quality of photography and the age-ing of the material done/added/reduced to the information?
+1. What has the the photographical strategy done/added to the information?<br>
+2. What has the materiality, the physical quality of photography and the age-ing of the material done/added/reduced to the information?
 
 
 
@@ -200,14 +200,11 @@ To study the television scenario. To arrange information in an interative way.
 [Fixxxion.nl Exclusief](https://kexinhao.github.io/campaign2020/)
 
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
 
 # Outcomes
 [Fixxxion.nl Exclusief](https://kexinhao.github.io/campaign2020/)
 
-
 # Conclusion
-You might have a nice conclusive observation to share at the end :)
 
 # Bibliography
 <a name="footnote-1">**[1]**</a>:https://www.parlement.com/id/vg09ll19amve/s_paul_de_groot <br>
