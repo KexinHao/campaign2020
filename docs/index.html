@@ -11,6 +11,7 @@
   </head>
   <body onload="startTime()">
   <div id="tvlogo"><img src="img/assets/fxtv.png" /></div>
+  <div id="vs"><img src="img/assets/vs.png" /></div>
   <div class="grid-container">
   <div class="TV">
     <div class="channel1">
@@ -18,15 +19,16 @@
 
       </div>
       <div class="title">
-
+        Amsterdam
       </div>
     </div>
     <div class="channel2">
       <div class="screen">
-
+        <video autoplay="true" id="videoElement">
+        </video>
       </div>
       <div class="title">
-
+         The Hague
       </div>
     </div>
     <div class="parties">
@@ -44,87 +46,93 @@
   </div>
 
   <div class="flag">
-    <img id="flag1" src="img/flags/gerbenwagenaar.jpg" />
-    <img id="flag2" src="img/flags/jlanser.jpg" />
+    <div id="box1" style="position: relative;">
+      <img id="flag1" src="img/flags/gerbenwagenaar.jpg" />
+      <img id="rawpic1" style="z-index: 999; position: absolute; top:0; width: 100%; display:none;" src="https://disseminate.objectrepository.org/file/level3/10622/30051001319976" />
+    </div>
+    <div id="box2" style="position: relative;">
+      <img id="flag2" src="img/flags/jlanser.jpg" />
+      <img id="rawpic2" style="z-index: 999; position: absolute; top:0; width: 100%; display:none;" src="https://disseminate.objectrepository.org/file/level3/10622/30051001319976" />
+    </div>
   </div>
   <div class="list">
     <div class="card">
       <div class="number">1</div>
       <div class="heads"><img src="img/heads/head_degroot.png" /></div>
-      <div class="name">Paul de Groot</div>
+      <a href="https://search.iisg.amsterdam/Record/810957"><div class="name">Paul de Groot</div></a>
       <div class="count"><span style="color:red;">22</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">3562</span></div>
     </div>
     <div class="card">
       <div class="number">2</div>
       <div class="heads"><img src="img/heads/head_vorrink.png" /></div>
-      <div class="name" style="transform:scale(1.1,1); transform-origin: 0 0;">Koos Vorrink</div>
+      <a href="https://search.iisg.amsterdam/Record/1261322"><div class="name" style="transform:scale(1.1,1); transform-origin: 0 0;">Koos Vorrink</div></a>
       <div class="count"><span style="color:red;">20</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">2100</span></div>
     </div>
     <div class="card">
       <div class="number">3</div>
       <div class="heads"><img src="img/heads/head_brandt.png" /></div>
-      <div class="name" style="transform:scale(1.15,1); transform-origin: 0 0;">Willy Brandt</div>
+      <a href="https://search.iisg.amsterdam/Record/809069"><div class="name" style="transform:scale(1.15,1); transform-origin: 0 0;">Willy Brandt</div></a>
       <div class="count"><span style="color:red;">22</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">1598</span></div>
     </div>
     <div class="card">
       <div class="number">4</div>
       <div class="heads"><img src="img/heads/head_schermerhorn.png" /></div>
-      <div class="name" style="transform:scale(0.7,1); transform-origin: 0 0;">Wim Schermerhorn</div>
+      <a href="https://search.iisg.amsterdam/Record/988688"><div class="name" style="transform:scale(0.7,1); transform-origin: 0 0;">Wim Schermerhorn</div></a>
       <div class="count"><span style="color:green;">22</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">9602</span></div>
     </div>
     <div class="card">
       <div class="number">5</div>
       <div class="heads"><img src="img/heads/head_deman.png" /></div>
-      <div class="name" style="transform:scale(0.96,1); transform-origin: 0 0;">Henrik de Man</div>
+      <a href="https://search.iisg.amsterdam/Record/988942"><div class="name" style="transform:scale(0.96,1); transform-origin: 0 0;">Henrik de Man</div></a>
       <div class="count"><span style="color:green;">22</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">2533</span></div>
     </div>
     <div class="card">
       <div class="number">6</div>
       <div class="heads"><img src="img/heads/head_burger.png" /></div>
-      <div class="name" style="transform:scale(1.15,1); transform-origin: 0 0;">Jaap Burger</div>
+      <a href="https://search.iisg.amsterdam/Record/1009126"><div class="name" style="transform:scale(1.15,1); transform-origin: 0 0;">Jaap Burger</div></a>
       <div class="count"><span style="color:red;">19</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">6429</span></div>
     </div>
     <div class="card">
       <div class="number">7</div>
       <div class="heads"><img src="img/heads/head_mansholt.png" /></div>
-      <div class="name">Wim Mansholt</div>
+      <a href="https://search.iisg.amsterdam/Record/819481"><div class="name">Sicco Mansholt</div></a>
       <div class="count"><span style="color:green;">23</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">3820</span></div>
     </div>
     <div class="card">
       <div class="number">8</div>
       <div class="heads"><img src="img/heads/head_gevers.png" /></div>
-      <div class="name" style="transform:scale(1.1,1); transform-origin: 0 0;">J.K.M Gevers</div>
+      <a href="https://search.iisg.amsterdam/Record/1009898"><div class="name" style="transform:scale(1.1,1); transform-origin: 0 0;">J.K.M Gevers</div></a>
       <div class="count"><span style="color:red;">10</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">6745</span></div>
     </div>
     <div class="card">
       <div class="number">9</div>
       <div class="heads"><img src="img/heads/head_driesten.png" /></div>
-      <div class="name" style="transform:scale(0.8,1); transform-origin: 0 0;">Theo van Driesten</div>
+      <a href="https://search.iisg.amsterdam/Record/1259339"><div class="name" style="transform:scale(0.8,1); transform-origin: 0 0;">Theo van Driesten</div></a>
       <div class="count"><span style="color:red;">7</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">3600</span></div>
     </div>
     <div class="card">
       <div class="number">10</div>
       <div class="heads"><img src="img/heads/head_visser.png" /></div>
-      <div class="name" style="transform:scale(0.9,1); transform-origin: 0 0;">Louis de Visser</div>
+      <a href="https://search.iisg.amsterdam/Record/1059399"><div class="name" style="transform:scale(0.9,1); transform-origin: 0 0;">Louis de Visser</div></a>
       <div class="count"><span style="color:red;">10</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">1201</span></div>
     </div>
     <div class="card">
       <div class="number">11</div>
       <div class="heads"><img src="img/heads/head_wagenaar.png" /></div>
-      <div class="name" style="transform:scale(0.7,1); transform-origin: 0 0;">Gerben Wagnenaar</div>
+      <a href="https://search.iisg.amsterdam/Record/1077371"><div class="name" style="transform:scale(0.7,1); transform-origin: 0 0;">Gerben Wagnenaar</div></a>
       <div class="count"><span style="color:green;">12</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">2093</span></div>
     </div>
     <div class="card">
       <div class="number">12</div>
       <div class="heads"><img src="img/heads/head_lanser.png" /></div>
-      <div class="name" style="transform:scale(1.5,1); transform-origin: 0 0;">J. Lanser</div>
+      <a href="https://search.iisg.amsterdam/Record/1019119"><div class="name" style="transform:scale(1.5,1); transform-origin: 0 0;">J. Lanser</div></a>
       <div class="count"><span style="color:red;">25</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">5682</span></div>
     </div>
     <div class="card">
 
       <div class="number">13</div>
       <div class="heads"><img src="img/heads/head_veringa.png" /></div>
-      <div class="name" style="transform:scale(0.9,1); transform-origin: 0 0;">Gerard Veringa</div>
+      <a href="https://search.iisg.amsterdam/Record/1019586"><div class="name" style="transform:scale(0.9,1); transform-origin: 0 0;">Gerard Veringa</div></a>
       <div class="count"><span style="color:green;">9</span>萬<span id="smallnumber" style="font-size:1vw; color:yellow;">5909</span></div>
     </div>
   </div>
@@ -160,7 +168,7 @@
   </div>
   <div class="bar2">
       <div class="ticker">
-        <div class="ticker__item">Amsterdam: Paul van de Groot hield hij toespraak bij mei-feest in het Olympisch stadion.</div>
+        <a href="https://search.iisg.amsterdam/Record/810957"><div class="ticker__item">Amsterdam: Paul van de Groot hield hij toespraak bij mei-feest in het Olympisch stadion.</div></a>
         <div class="ticker__item">Doorn: Henrik De man houdt toespraak tot SDSC.</div>
         <div class="ticker__item">Vierhouten: Willem Schermerhorn sprak tijdens AJC. Pinksterfeest.</div>
         <div class="ticker__item">lees: J.A.W Burger's belangrijke toespraak op PvdA-bijeenkomst. </div>

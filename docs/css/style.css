@@ -3,6 +3,16 @@ html, body, .grid-container {
   margin: 0;
   overflow-x: hidden;
  }
+
+a{
+  color:white;
+  text-decoration: none;
+}
+a:visited, a:hover{
+   text-decoration: underline;
+   cursor: pointer;
+ }
+
 #tvlogo{
   z-index: 111;
   position: fixed;
@@ -13,6 +23,21 @@ html, body, .grid-container {
 #tvlogo img{
   display: block;
   max-width: 100%;
+}
+#vs{
+  display: none;
+  z-index: 1111;
+  position: fixed;
+  top:60vh;
+  left:35vw;
+  width: 10%;
+}
+#vs img{
+  display: block;
+  max-width: 100%;
+}
+#vs img:hover{
+  transform: scale(1.5);
 }
 .grid-container {
   display: grid;
@@ -35,17 +60,43 @@ html, body, .grid-container {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1.7fr 0.3fr;
-  gap: 1px 1px;
+  background-color: black;
   grid-area: channel1;
+}
+.channel1 .title{
+  background-image: url(../img/assets/button3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  color:yellow;
+  font-size: 2vw;
+  text-align: right;
+  padding-right:3vw;
+  margin-bottom:-3vh;
+  text-decoration:none;
+  text-shadow:0px 1px 1px black;
+  font-family: 'Anton', sans-serif;
 }
 
 .channel2 {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1.7fr 0.3fr;
-  gap: 1px 1px;
-  grid-area: channel2;
+  background-color: black;
 }
+.channel2 .title{
+  background-image: url(../img/assets/button2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  color:yellow;
+  font-size: 2vw;
+  text-align: right;
+  padding-right:3vw;
+  margin-bottom:-3vh;
+  text-decoration:none;
+  text-shadow:0px 1px 1px black;
+  font-family: 'Anton', sans-serif;
+}
+
 .parties {
   display: grid;
   background: rgb(0,200,255);
@@ -158,7 +209,7 @@ html, body, .grid-container {
   background-size:cover; */
   grid-area: logo;
   background: rgb(0,200,255);
-background: linear-gradient(0deg, rgba(0,200,255,1) 0%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(0deg, rgba(0,200,255,1) 0%, rgba(255,255,255,1) 100%);
 }
 .logo img{
   max-width: 100%;
@@ -169,6 +220,7 @@ background: linear-gradient(0deg, rgba(0,200,255,1) 0%, rgba(255,255,255,1) 100%
 }
 
 .titletext {
+  background-color: black;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1.4fr 0.6fr;
@@ -179,22 +231,25 @@ background: linear-gradient(0deg, rgba(0,200,255,1) 0%, rgba(255,255,255,1) 100%
 }
 
 .maintext {
+  background-image: url(../img/assets/button1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
   grid-area: maintext;
   color: blue;
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: black;
   text-align: center;
   text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
-  background: rgb(150,150,0);
-  background: linear-gradient(3deg, rgba(150,150,0,1) 0%, rgba(255,255,255,1) 38%, rgba(251,255,0,1) 100%);
+  /* background: rgb(150,150,0);
+  background: linear-gradient(3deg, rgba(150,150,0,1) 0%, rgba(255,255,255,1) 38%, rgba(251,255,0,1) 100%); */
 }
 
 .subtitle {
   grid-area: subtitle;
   color: white;
-  font-size: 2vw;
+  font-size: 2.3vw;
   text-align: center;
-  background-color: black;
+
 }
 
 .banner1 { grid-area: banner1; }
