@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#artefact)
     1. [Metadata](#metadata)
-2. [Research](#research)
+2. [Research](#research-h1)
     1. [Research on photography](#research_on_photography)
     1. [Research on visual strategies in political campaign](#research_on_visual_strategies_in_political_campaign)
 3. [Transcoding](#transcoding)
