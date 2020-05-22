@@ -164,6 +164,8 @@ To study their body language and rhetorics, and to translate with my own approac
 <details>
 <summary>Campaign2020: flags</summary>
 
+![combined](https://github.com/KexinHao/campaign2020/blob/master/explainatory/cc.png)
+
 | original| transcoded |  
 |--|--|
 |![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <img src="Documentation/img/pauldegroot.jpg" width="50%">
