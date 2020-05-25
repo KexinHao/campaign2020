@@ -1,5 +1,5 @@
 [<img src="https://github.com/KexinHao/campaign2020/blob/master/explainatory/banner2.png" width="100%">](#)
-# Campaign2020: A Re-entry
+# Campaign 2020: A Re-Entry
 
 ### Table of Contents
 1. [Artefact](#artefact)
