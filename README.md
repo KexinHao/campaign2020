@@ -210,6 +210,8 @@ To study their body language and rhetorics, and to translate with my own approac
 To study the television scenario. To arrange information in an interative way.
 
 ### Results
+
+![website preview](https://github.com/KexinHao/campaign2020/blob/master/explainatory/screenshot.jpg)<br>
 [Fixxxion.nl Exclusief](https://kexinhao.github.io/campaign2020/)
 
 # Reflection
