@@ -50,10 +50,17 @@ They are my methods to question and examine the value of photography in politica
 1. What has the the photographical strategy done/added to the information?<br>
 2. What has the materiality, the physical quality of photography and the age-ing of the material done/added/reduced to the information?
 
+Analysis
 
+| Tag | Data & Research |  
+|--|--|
+**IISG Call Number** | [IISG BG B19/640 ](https://hdl.handle.net/10622/EB99E5C9-7A39-4145-B64B-02C6AE7415B3)
+| **Date & Location** | 1947 1 mei, Amsterdam
+| **Subject Person** | Paul de Groot
+|![enter image description here](https://disseminate.objectrepository.org/file/level2/10622/30051000586377)| <ul><li>internal values:<br></li><li>external values:<br></li><li>background investigation:<br>
 
 <details>
-<summary>Analysis Table</summary>
+<summary>Full Analysis Table</summary>
 
 ### Notion System: A table of indexes of reconstruction
 [A table of indexes of reconstruction]:https://www.notion.so/a4eb1adef6f5400a85285c7ce558e2e7?v=1fce2c8c2cd4463397c9e0255155337c
@@ -131,8 +138,13 @@ It inspires me into applying this visual strategy to the photography in the arch
 
 Looking at those politicians in the photos with very limited information given, questions have been aroused: who exactly are they? What did they do and what are their statements at that time? How can I make it interesting for people to know about them?
 
+Comparison
+
+![taiwan election banner](https://github.com/KexinHao/campaign2020/blob/master/explainatory/TWflags/37788735_287828398643838_3463745726696128512_o.jpg)<br>
+![NL election poster](https://github.com/KexinHao/campaign2020/blob/master/explainatory/NLposter/xxl.jpg)
+
 <details>
-<summary>Comparison Table</summary>
+<summary>Full Comparison Table</summary>
 
 | in The Netherlands | in Taiwan |  
 |:--- |:--- |
@@ -161,10 +173,12 @@ To have set of political campaign visuals for the politicians that are capable f
 To study their body language and rhetorics, and to translate with my own approaches.
 ### Results
 
+![flags](https://github.com/KexinHao/campaign2020/blob/master/explainatory/cc.png)
+
 <details>
 <summary>Campaign2020: flags</summary>
 
-![combined](https://github.com/KexinHao/campaign2020/blob/master/explainatory/cc.png)
+
 
 | original| transcoded |  
 |--|--|
