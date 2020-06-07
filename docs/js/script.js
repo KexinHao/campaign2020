@@ -88,7 +88,6 @@ function showRandomImage2() {
   var new_url = urls[index];
   $("#flag2").attr("src",new_url);
   $("#rawpic2").attr("src", rawurls[index]);
-  $(".title2").text(names[index]);
   $(".logo2").attr("src",parties[index]);
 }
 
