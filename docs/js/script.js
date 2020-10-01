@@ -81,7 +81,7 @@ function showRandomImage() {
 }
 
 showRandomImage2();
-var t = setInterval(showRandomImage2,5000);
+var t = setInterval(showRandomImage2,3000);
 function showRandomImage2() {
   var index = Math.floor(Math.random() * urls.length);
   // index = index + 1;
